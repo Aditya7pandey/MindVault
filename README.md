@@ -32,7 +32,7 @@
 
 <br />
 
-[🚀 Live Demo](#) &nbsp;·&nbsp; [📖 Documentation](#) &nbsp;·&nbsp; [🐛 Report Bug](https://github.com/Aditya7pandey/MindVault/issues) &nbsp;·&nbsp; [✨ Request Feature](https://github.com/Aditya7pandey/MindVault/issues)
+[🚀 Live Demo](https://youtu.be/lZYR10JKelI) &nbsp;·&nbsp; [🐛 Report Bug](https://github.com/Aditya7pandey/MindVault/issues) &nbsp;·&nbsp; [✨ Request Feature](https://github.com/Aditya7pandey/MindVault/issues)
 
 <br />
 
